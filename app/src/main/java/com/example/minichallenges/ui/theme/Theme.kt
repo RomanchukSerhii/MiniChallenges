@@ -9,9 +9,12 @@ import androidx.compose.runtime.SideEffect
 import androidx.compose.ui.platform.LocalView
 
 private val LightColorScheme = lightColorScheme(
-    primary = Purple40,
+    primary = PurpleDeepest,
     secondary = PurpleGrey40,
-    tertiary = Pink40
+    tertiary = Pink40,
+    background = WhitePinkish,
+    onSurface = BlackSoft,
+    primaryContainer = PurpleBright
 )
 
 @Composable

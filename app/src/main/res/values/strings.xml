@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MiniChallenges</string>
+    <string name="thousands_separator">Thousands separator</string>
 </resources>
