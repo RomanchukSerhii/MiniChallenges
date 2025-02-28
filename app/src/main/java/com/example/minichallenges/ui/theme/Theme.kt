@@ -11,7 +11,8 @@ import androidx.compose.ui.platform.LocalView
 private val LightColorScheme = lightColorScheme(
     primary = Purple40,
     secondary = PurpleGrey40,
-    tertiary = Pink40
+    tertiary = Pink40,
+    surface = Gray
 )
 
 @Composable
