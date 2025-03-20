@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MiniChallenges</string>
+    <string name="olympus_mons">Olympus Mons</string>
+    <string name="dust_storm">Dust Storm</string>
 </resources>
